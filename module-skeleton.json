@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-prospecting-agent-flutter",
+  "capabilityKey": "liberusoftware/module-crm-prospecting-agent",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_prospecting_agent_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/prospecting-agent.md",
+  "presentationPlan": "projects/crm/flutter/prospecting-agent.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
